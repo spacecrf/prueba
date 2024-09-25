@@ -2,23 +2,23 @@
 
 ## Lenguaje de marca 1º Daw
 
-Este es un párrafo de texto que proporciona información sobre el tema. Markdown es un lenguaje de marcado ligero que permite dar formato a texto de forma sencilla.
+Esto son los inicios del Lg.marca
 
-## Subtítulo 2
+## ¿Que haremos?
 
-### Sub-subtítulo
+### 1ºDaw
 
-Aquí hay una lista de elementos:
+Cosas q haremos:
 
-- Elemento 1
-- Elemento 2
-- Elemento 3
+- html
+- xml
+- SVG
 
-### Gráfico
+### foto de la asignatura
 
-Puedes incluir imágenes, como gráficos, de la siguiente manera:
 
-![Texto alternativo del gráfico](URL_del_gráfico)
+
+![HTML](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw1Is4gtuYPcc8rvmaTzf5hB&ust=1727335662814000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjD7PfI3YgDFQAAAAAdAAAAABAE)
 
 ### Tabla
 
@@ -31,4 +31,4 @@ A continuación, una tabla de ejemplo:
 
 ## Conclusión
 
-Este es un resumen final sobre lo que se ha discutido.
+Esto son los inicios, cual sera el final?
